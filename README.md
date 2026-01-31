@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Hey+there!+I'm+Pavel+%F0%9F%91%8B;Telecom+%26+Network+Student;Python+Developer;Open+for+Collaboration!" alt="Typing SVG" />
-</div>
-
 # 👋 Привет! Я Павел
 
 🎓 **Студент** Уральского технического института связи и информатики (УрТИСИ)  
@@ -18,6 +14,7 @@
 |:---:|:-----------|
 | 2025 | 🥈 **II место** на Всероссийском хакатоне связи |
 | 2025 | 📜 Сертификат **"Базовый Python"** (VK Education) |
+| 2024 | 📜 Сертификат **участника Всероссийского хакатона связи** |
 
 </div>
 
@@ -85,30 +82,6 @@ class Pavel:
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=icyobsidian&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=icyobsidian&theme=tokyonight&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=icyobsidian&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=icyobsidian&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
-
-</div>
-
----
-
 ## 🎯 Интересы и Цели
 
 - 🌐 **Сетевые технологии** — изучаю протоколы и архитектуру сетей
@@ -129,16 +102,6 @@ class Pavel:
 
 </div>
 
----
 
-<div align="center">
 
-### 💬 "Code is like humor. When you have to explain it, it's bad." – Cory House
 
-[![](https://visitcount.itsvg.in/api?id=icyobsidian&icon=0&color=0)](https://visitcount.itsvg.in)
-
-</div>
-
----
-
-⭐️ From [icyobsidian](https://github.com/icyobsidian)
